@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MrFox</string>
+    <string name="subTitulo">WINTER IS COMING</string>
+    <string name="hintNombre">USUARIO</string>
+    <string name="hintPassword">CONTRASEÑA</string>
+    <string name="BTN">SIGN UP</string>
+    <string name="btnUpdate">UPDATE</string>
+    <string name="btnUnistall">UNISTALL</string>
+    <string name="snack">lost your FOX?</string>
+    <string name="texto">Es un mamifero carnivoro que se encuentra en casi todos los continentes, existen mas de 120 especies diferentes de zorros.
+Tienen un promedio de vida de unos 10 años, aunque pueden vivir mas o menos, pero no se conocen ninguno que haya vivido mas de 12 años.
+Si bien la morfología del ejemplar puede variar según la especie de zorro de la que se trate, en general todos comparten un hocico fino y una
+cola bien espesa con su pelaje que en general es de color marron caramelo; luego lo demas puede variar en cuanto al largo del pelaje por
+ejemplo según el habitat dónde viva si es en una zona ártica o no por ejemplo.En ciertas zonas como en Australia son considerados
+una plaga, convirtiéndose en animales dañinos e invasivos; sin embargo pueden ser muy útiles para propósitos agrícolas. Han sido
+empleados para controlar plagas en granjas frutícolas, dejando la fruta intacta.</string>
+
+</resources>
